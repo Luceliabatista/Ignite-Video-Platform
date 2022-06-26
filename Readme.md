@@ -1,4 +1,4 @@
-<h1 align="center">Plataforma de videos Ignite</h1>
+<h1 align="center">Plataforma de vídeos Ignite</h1>
 
 <h4 align="center"> 
 	🚧  Status da aplicação: EM DESENVOLVIMENTO  🚧
