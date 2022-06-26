@@ -19,7 +19,7 @@ export function Lesson(props: LessonProps) {
     locale: ptBR,
   })
 
-  const isActiveLesson = slug ===props.slug
+  const isActiveLesson = slug === props.slug
 
   return (
     <Link to={`/event/lesson/${props.slug}`} className="group">
